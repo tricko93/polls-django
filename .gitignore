@@ -1,0 +1,30 @@
+# Byte-compiled / optimized Python files
+__pycahce__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+*.env
+
+# Django-related
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+
+# IDE or editor-specific files
+.idea/
+.vscode/
+
+# Compiled Python bytecode
+*.pyc
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
